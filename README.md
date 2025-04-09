@@ -12,7 +12,7 @@ As principal, you control the budget, the staff, the schedule, and the policies.
 - Balance your **budget** between staff salaries, facility upgrades, and extracurricular funding.
 - Manage your **rep** trying to calm angry parents, stop student uprisings and grow as a school, using your philanthropic donations to actually expand.
 - Schedule **classroom use** wisely to avoid student burnout and overcrowding.
-- Recruit teachers with unique traits, from gossip-prone drama instructors to overzealous gym coaches.
+- Recruit teachers with unique traits, conduct interviews in order to hire, from gossip-prone drama instructors to overzealous gym coaches.
 
 ### Dynamic Student Simulation
 - Every student has unique stats like GPA, stress level, social group, and "college pressure" tendencies.
